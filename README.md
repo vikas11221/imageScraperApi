@@ -1,1 +1,1 @@
-# imageScraperApi
+# imageScraperServer
